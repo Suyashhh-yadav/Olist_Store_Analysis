@@ -60,6 +60,9 @@ D --> E[Dashboard & Insights]
 ## 📸 Dashboard Preview
 
 Interactive Power BI dashboard showcasing sales, payment methods, delivery timelines, and customer ratings with regional insights.
+![Dashboard Preview](https://i.imgur.com/xyz123.png)
+
+
 ## 📊 Key Insights Summary
 
 | Category            | Key Finding                                         |
