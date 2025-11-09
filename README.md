@@ -60,7 +60,7 @@ D --> E[Dashboard & Insights]
 ## 📸 Dashboard Preview
 
 Interactive Power BI dashboard showcasing sales, payment methods, delivery timelines, and customer ratings with regional insights.
-![Dashboard Preview]([https://i.imgur.com/xyz123.png](https://github.com/Suyashhh-yadav/Olist_Store_Analysis/blob/main/Dashboard_snapshot.png?raw=true)
+![Dashboard Preview](https://github.com/Suyashhh-yadav/Olist_Store_Analysis/blob/main/Dashboard_snapshot.png?raw=true)
 
 
 ## 📊 Key Insights Summary
